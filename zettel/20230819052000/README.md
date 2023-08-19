@@ -11,5 +11,5 @@ Common Manual/Interactive Operations :
 * Upgrade all packages(Don't do this) : `sudo apt upgrade`
 
 Tags:
-	#package #package-management #ubuntu 
+	#linux #package #package-management #ubuntu 
 
