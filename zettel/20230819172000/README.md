@@ -9,7 +9,7 @@ Basic Navigation
  
 Print working directory: `pwd`
 Type of paths:
-* Absolute paths: That start from root (/)
+* Absolute paths: That start from root directory (`/`)
 * Relative paths: That start from current working directory.
 
 Absolute paths start with `/`
@@ -17,7 +17,7 @@ Absolute paths start with `/`
 Relative paths start with one of:
 * a directory name present inside the Current working Directory
 * `.` : a dot indicating relative to itself
-* '..': double dot indicating parent of the current working directory
+* `..`: double dot indicating parent of the current working directory
 (Yeah... to reference a file that is present directly in cwd, we need to do something like `./<filename>` since relative paths can't start with filename)
 
 
