@@ -14,7 +14,7 @@ Ordered List:
 
 Use *italic*, **bold** or ***bold italic*** only. Avoid Underscores.
 
-Don't hide links like [hidden-link](https://github.com/madhu1992blue)
+Don't hide links like [hidden-link](https://github.com/madhu1992blue)  
 Show the links as : https://github.com/madhu1992blue (Imagine if you would like to print the doc, visible links carry info)
 
 References:
